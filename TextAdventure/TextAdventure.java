@@ -258,7 +258,7 @@ public class TextAdventure
     {
       input = inScanner.nextLine();
     }
-      
+
 
     if(input.equals("yes"))
     {
@@ -271,7 +271,7 @@ public class TextAdventure
       gameEnd();
     }
   }
-
+//Barry is cool
 
   private void gameEnd()
   {
